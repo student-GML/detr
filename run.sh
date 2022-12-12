@@ -1,0 +1,1 @@
+python3 main.py --dataset_file triton --data_path ./coco_subset --output_dir output --resume weights/detr-r101-dc5-a2e86def.pth --backbone resnet101
